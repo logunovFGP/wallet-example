@@ -1,0 +1,6 @@
+{
+  "migrations-path": "server/dao/migrations",
+  "models-path": "server/dao/models",
+  "seeders-path": "server/dao/seeders",
+  "config":"server/configs/db.js"
+}
